@@ -1000,6 +1000,13 @@ ul {
 .team .team__comment-mobile {
   margin: 5px 0;
   display: none;
+  font-family: 'TT Norms';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #B3B3BA;
+  text-decoration: none;
 }
 
 .team .text-wrapper {
